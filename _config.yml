@@ -1,1 +1,7 @@
 theme: bulma-clean-theme
+title: Page with tabs
+subtitle: Demo page with tabs
+layout: page
+show_sidebar: false
+menubar: example_menu
+tabs: example_tabs
