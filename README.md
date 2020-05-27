@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to the home of bearandhammer on GitHub
 
-You can use the [editor on GitHub](https://github.com/bearandhammer/bearandhammer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi there! I'm Lewis, aka 'the bear' of [bearandhammer.net](https://bearandhammer.net), and a full-stack developer with over 10 years of experience in the IT industry. I'm a naturally driven and enthusiastic learner who enjoys seeking out new technologies, patterns and practices. An eternal tinkerer with a genuine zeal for 'looking under the hood', such as decompiling code, inspecting IL and rooting around base class libraries to see how things 'tick'. I pride myself on staying upbeat, positive and always keeping a smile on my face. When it comes down to it though, I just really love learning and coding and you'll be able to journey with me down various rabbit holes via my blog and repositories on show here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Repositories
 
-### Markdown
+Content incoming!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Social
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bearandhammer/bearandhammer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Content incoming!
