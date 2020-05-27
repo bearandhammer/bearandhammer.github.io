@@ -1,3 +1,4 @@
-theme: bulma-clean-theme
+#theme: bulma-clean-theme
+remote_theme: bulma-clean-theme
 title: Home of bearandhammer on GitHub
 description: Welcome to the home of bearandhammer on GitHub!
